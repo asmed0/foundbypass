@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [UnleashedAIO](https://twitter.com/UnleashedAIO)
 
-- 🌱 I’m currently learning **Electron & ReactJS**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **C# & .NET Core**
 
