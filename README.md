@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/foundbypass" target="blank"><img src="https://img.shields.io/twitter/follow/foundbypass?logo=twitter&style=for-the-badge" alt="foundbypass" /></a> </p>
 
-- 🔭 I’m currently working with [NotifyEU]{https://twitter.com/NotifyEU}, a sneaker focused community making monitors.  
+- 🔭 I’m currently working with [NotifyEU](https://twitter.com/NotifyEU), a sneaker release focused community.  
 
 - 🌱 I’m currently learning **Go & React.js**
 
